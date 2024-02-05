@@ -1,10 +1,6 @@
 <h1 align="center">Olá 👋, meu nome é Guilherme Faraco</h1>
 <h3 align="center">Um curioso e apaixonado desenvolvedor Full Stack</h3>
 
-<img align="right" alt="code" width="400" src="![image](https://github.com/guifaraco/guifaraco/assets/100322219/e64467af-85d7-47e9-ad0c-413a56a14422)">
-
-
-
 - 🌱 Eu estou atualmente lendo **Código Limpo e Entendendo algoritmos**
 
 - 📫 Como pode me contatar? **guirfv29@gmail.com**
